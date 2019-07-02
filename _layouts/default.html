@@ -16,7 +16,7 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         <nav><ul>{% for page in site.pages %}
-        <li style="display:inline"><a href="{{ page.url }}">{{ page.title}}</a></li>{% endfor %}</nav></ul>
+        <li style="display:inline"><a href=".{{ page.url }}">{{ page.title}}</a></li>{% endfor %}</nav></ul>
       </div>
     </header>
 
