@@ -15,8 +15,13 @@
       <div class="container">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        <nav><ul>{% for page in site.pages %}
+        {% comment %}<nav><ul>{% for page in site.pages %}
         <li style="display:inline"><a href=".{{ page.url }}">{{ page.title}}</a></li>{% endfor %}</ul></nav>
+        {% endcomment %}
+        <nav><ul>
+        <li style="display:inline"><a href="./">Home</a></li>
+        <li style="display:inline"><a href="./glossario.html">Glossario</a></li>
+        <li style="display:inline"><a href="./biblio.html">Bibliografia</a></li></ul></nav>
       </div>
     </header>
 
