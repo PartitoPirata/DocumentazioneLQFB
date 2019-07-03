@@ -42,3 +42,12 @@ Nella fase di verifica, viene eliminata la possibilità di modificare le propost
 Alla fine della fase di verifica, le proposte della issue vengono confrontate con un *secondo* quorum, diverso dal primo di ammissione: quelle che lo superano, passeranno alla successiva fase di voto; tutte le altre, si fermeranno qui.
 
 ## La fase di voto
+
+Una volta terminata la fase di verifica, ti sarà proposto di votare le proposte comprese nella issue. Dovrai prima di tutto stabilire un ordine di preferenze fra le proposte (è consentito avere proposte equivalenti) e dovrai decidere quali proposte ritieni migliori dello status quo e quali peggiori.
+
+![La scheda elettorale](./static/votazione.png)
+
+Nel rettangolo grigio è sempre presente una proposta virtuale che rappresenta lo status quo, quindi dovrai mettere le proposte migliorative, ordinate per preferenza, nei rettangoli verdi, e le proposte peggiorative, allo stesso modo, nei rettangoli rossi. Potrai aggiungere un commento al voto, e poi confermare.
+
+Una volta conclusa la fase di votazione, il software valuterà i voti e calcolerà il risultato secondo il metodo Schulze, integrandolo con altre richieste dovute a eventuali maggioranze qualificate.
+
