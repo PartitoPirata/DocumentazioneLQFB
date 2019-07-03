@@ -1,5 +1,5 @@
 - term: "Issue"
-  definition: "Una issue è un insieme di *proposte* alternative che vengono votate insieme. Ad una issue si applica un quorum di *ammissione* per verificare che sia un argomento che valga la pena di essere discusso, secondo i parametri della *policy* scelta dal promotore della prima iniziativa, il quale creandola apre la issue stessa."
+  definition: "Una issue (altrimenti detta **tematica**) è un insieme di *proposte* alternative che vengono votate insieme. Ad una issue si applica un quorum di *ammissione* per verificare che sia un argomento che valga la pena di essere discusso, secondo i parametri della *policy* scelta dal promotore della prima iniziativa, il quale creandola apre la issue stessa."
 
 - term: "Proposta"
   definition: "Una proposta è un testo all'interno del quale gli iniziatori esprimono la posizione che intendono portare al voto."
