@@ -21,3 +21,7 @@ Il metodo Schulze è un metodo di Condorcet, e in quanto tale confronta a coppie
 - term: "Paradosso di Condorcet"
   definition: "Detto altrimenti *preferenza collettiva ciclica*, è una situazione in cui è impossibile stabilire un vincitore di Condorcet, cioè la proposta che batte tutte le altre in confronti a coppie. Ad esempio, se la maggioranza preferisce A a B, B a C, e C ad A, ci troviamo in tale situazione. Il metodo Schulze prevede un sistema per rompere un eventuale paradosso di Condorcet."
 
+- term: "Status quo"
+  definition: "Status quo è un'espressione derivata dal latino in statu quo ante (= “nella situazione precedente”) [it.wiki]. In liquid feedback, lo status quo viene inserito sotto forma di proposta fantasma, messa in astensione per tutti i votanti. Entra nel calcolo del metodo Schulze, e può godere di protezioni particolari (Vedi *Principles* §4.12.3)."
+
+  
