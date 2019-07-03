@@ -7,7 +7,7 @@
 
 In LiquidFeedback, le iniziative sono raggruppate in tematiche (*issue*).
 
-Quando il proponente iniziale entra nell'area appropriata, e clicca su *crea un'iniziativa per una nuova tematica* può decidere la *policy*, il titolo e il testo della sua proposta (attenzione: i primi due non sono modificabili, mentre il testo è editabile fino alla fine della fase di discussione).
+Quando il proponente iniziale entra nell'area appropriata, e clicca su *crea un'iniziativa per una nuova tematica* può decidere la *policy*, il titolo e il testo della sua proposta (attenzione: policy e titolo non sono modificabili, mentre il testo è editabile fino alla fine della fase di discussione).
 
 ![L'interfaccia di creazione per una nuova issue](./static/nuova_tematica.png)
 
