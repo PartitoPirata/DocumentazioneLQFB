@@ -49,5 +49,5 @@ Una volta terminata la fase di verifica, ti sarà proposto di votare le proposte
 
 Nel rettangolo grigio è sempre presente una proposta virtuale che rappresenta lo status quo, quindi dovrai mettere le proposte migliorative, ordinate per preferenza, nei rettangoli verdi, e le proposte peggiorative, allo stesso modo, nei rettangoli rossi. Potrai aggiungere un commento al voto, e poi confermare.
 
-Una volta conclusa la fase di votazione, il software valuterà i voti e calcolerà il risultato secondo il metodo Schulze, integrandolo con altre richieste dovute a eventuali maggioranze qualificate.
+Una volta conclusa la fase di votazione, il software valuterà i voti e calcolerà il risultato secondo il metodo Schulze, integrandolo con altre richieste dovute a eventuali maggioranze qualificate, ed esprimerà la proposta vincitrice (alternativamente dichiarerà la issue conclusa senza vincitrice).
 
