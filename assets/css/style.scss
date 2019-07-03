@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}"
+
+p img:only-child {
+    margin: 0 auto;
+    display: block;
+}
