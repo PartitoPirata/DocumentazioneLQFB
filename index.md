@@ -21,7 +21,7 @@ La fase di ammissione è l'unica a lunghezza variabile, essendone determinata so
 
 ## La fase di discussione
 
-Durante la fase di discussione sono possibili principalmente due cose, che erano possibili anche in fase di ammissione: l'introduzione di proposte alternative, e l'invio di suggerimenti (emendamenti) alle proposte già inserite.
+Durante la fase di discussione sono possibili principalmente due cose, che erano possibili anche in fase di ammissione: l'introduzione di proposte alternative, e l'invio di suggerimenti (emendamenti) alle proposte già inserite. La discussione in LiquidFeedback è strutturata in questo modo per invitare a proporre alternative costruttive che possano ottenere il supporto degli altri utenti. Ovviamente niente impedisce di discutere le proposte all'esterno della piattaforma, su forum o social network.
 
 La proposizione di un'alternativa consiste nello scrivere una proposta, cliccando su "crea un'Iniziativa alternativa," con i modi e i mezzi descritti sopra, esclusa la scelta della policy, la quale si applica alla tematica intera.
 
