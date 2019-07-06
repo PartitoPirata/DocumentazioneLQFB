@@ -3,6 +3,8 @@
 
 # QuickStart
 
+LiquidFeedback è il sistema deliberativo adottato dal Partito Pirata Italiano e da altre organizzazioni, chi più chi meno. Lo scopo di questa pagina è spiegare a utenti completamente a digiuno come funziona questo software e come orientarsi al suo uso attivo. **Non è una guida completa**, l'omissione più importante è certamente una spiegazione del **sistema di deleghe transitive**, che è parte fondamentale del sistema ma la cui trattazione si può rimandare a un secondo momento.
+
 ## Una nuova tematica
 
 In LiquidFeedback, le iniziative sono raggruppate in tematiche (*issue*).
